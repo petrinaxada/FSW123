@@ -1,0 +1,16 @@
+#root {
+    display: flex;
+}
+
+.theBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+}
+
+.boxcontainer {
+    margin: 0px 15px;
+}
+/*assisted by E.Yarborough*/
